@@ -1,0 +1,16 @@
+
+/* RESET THE DEFAULT CSS */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  outline: none;
+}
+
+/* Body  */
+body{
+  /* margin: 0;
+  padding: 0; */
+  font-family: "Poppins", sans-serif;
+}
