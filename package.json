@@ -1,5 +1,5 @@
 {
-  "homepage": "https://vdharmendra.github.io/Hero-Banner-Landing-Page-Reactjs-Landing-PageCar-Slider-Hero-Banner-Landing-Page",
+  "homepage": "https://vdharmendra.github.io/hero-banner",
   "name": "hero-banner-landing-page",
   "private": true,
   "version": "0.0.0",
@@ -10,8 +10,8 @@
   "lint": "eslint .",
   "preview": "vite preview",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-  "dist": "vite build"
+    "dist": "vite build",
+  "deploy": "gh-pages -d dist"
 },
   "dependencies": {
     "react": "^19.1.1",
