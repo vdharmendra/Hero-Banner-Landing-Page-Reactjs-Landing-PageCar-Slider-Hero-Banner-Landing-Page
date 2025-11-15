@@ -6,7 +6,7 @@ It features a sleek, modern hero banner with a dynamic image slider, perfect for
 
 ---
 ## View Project ##
-<a href="https://vdharmendra.github.io/">View Project on browser</a>
+<a href="https://vdharmendra.github.io/Hero-Banner-Landing-Page-Reactjs-Landing-PageCar-Slider-Hero-Banner-Landing-Page">View Project on browser</a>
 
 - 
 👨‍💻 Author
